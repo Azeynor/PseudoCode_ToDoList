@@ -3,7 +3,7 @@ V.1.0
 
 Mon tout 1er Repository sur Git et Github. 
 
-Les objetcifs de ce projet: 
+Les objectifs de ce projet: 
 
 1. Travailler ma logique avec du pseudo Code
 2. M'entrainer sur le terminal de commandes à faire des commit
